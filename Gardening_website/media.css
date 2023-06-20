@@ -1,0 +1,160 @@
+@media (max-width: 1200px) {
+}
+@media (max-width: 992px) {
+  .sec-1-sub {
+    width: 95%;
+  }
+  .sec-1-sub h1 {
+    font-size: 2rem;
+  }
+  .sec-1-sub p {
+    font-size: 1rem;
+  }
+  .sec-1-btn {
+    width: 140px;
+    height: 40px;
+  }
+  /* ------------------------------ */
+  .sec-2 {
+    height: auto;
+  }
+  .sec-2-main {
+    height: auto;
+  }
+  .sec-2-sub {
+    height: 40vh;
+  }
+  /* --------------------------------------- */
+  .sec-4 {
+    height: auto;
+  }
+  .sec-4-main {
+    flex-wrap: wrap;
+    height: auto;
+  }
+  .sec-4-sub-1 {
+    width: 100%;
+  }
+  .sec-4-sub-2 {
+    width: 100%;
+  }
+  /* .sec-4-sub-2-box-1 {
+    height: 50%;
+  }
+  .sec-4-sub-2-box-2 {
+    height: 50%;
+  } */
+  #sec-4-img-box img {
+    width: 80%;
+    height: 90%;
+  }
+  .sec-4-sub-1-box-1 h1 {
+    font-size: 2.5rem;
+  }
+  .sec-4-sub-1-box-1 p {
+    font-size: 1rem;
+  }
+  /* ____________________________________________ */
+  .sec-5 {
+    height: auto;
+  }
+  .sec-5-main {
+    height: auto;
+  }
+  /* ----------------------------- */
+  footer {
+    height: auto;
+  }
+  .foot-1 {
+    flex-wrap: wrap;
+    height: auto;
+  }
+  .foot-1-sub {
+    width: 90%;
+    margin: 10px;
+  }
+  .foot-2 {
+    margin: 10px;
+  }
+  .foot-2-sub {
+    width: 100%;
+  }
+  .foot-2-sub h5 {
+    font-size: 0.7rem;
+  }
+}
+@media (max-width: 768px) {
+  .sec-1-sub {
+    width: 95%;
+  }
+  .sec-1-sub h1 {
+    font-size: 2.5rem;
+  }
+  .sec-1-sub p {
+    font-size: 1rem;
+  }
+  .sec-1-btn {
+    width: 140px;
+    height: 40px;
+  }
+  /* ------------------------------ */
+  .sec-2 {
+    height: auto;
+  }
+  .sec-2-main {
+    height: auto;
+  }
+  .sec-2-sub {
+    height: 40vh;
+  }
+  /* --------------------------------------- */
+  .sec-4 {
+    height: auto;
+  }
+  .sec-4-main {
+    flex-wrap: wrap;
+    height: auto;
+  }
+  .sec-4-sub-1 {
+    width: 100%;
+  }
+  .sec-4-sub-2 {
+    width: 100%;
+  }
+  /* .sec-4-sub-2-box-1 {
+    height: 50%;
+  }
+  .sec-4-sub-2-box-2 {
+    height: 50%;
+  } */
+  #sec-4-img-box img {
+    width: 80%;
+    height: 90%;
+  }
+  .sec-4-sub-1-box-1 h1 {
+    font-size: 2rem;
+  }
+  /* ----------------------------- */
+  footer {
+    height: auto;
+  }
+  .foot-1 {
+    flex-wrap: wrap;
+    height: auto;
+  }
+  .foot-1-sub {
+    width: 90%;
+    margin: 10px;
+  }
+  .foot-2 {
+    margin: 10px;
+  }
+  .foot-2-sub {
+    width: 100%;
+  }
+  .foot-2-sub h5 {
+    font-size: 0.7rem;
+  }
+}
+@media (max-width: 576px) {
+}
